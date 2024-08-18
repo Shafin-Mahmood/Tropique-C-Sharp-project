@@ -1,0 +1,502 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\Tropique\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B50F79A-9E19-4EFE-B46A-4A60FE711B31}|Tropique\\Tropique.csproj|C:\\Users\\Dell\\Desktop\\Tropique\\tropique\\indoor2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B50F79A-9E19-4EFE-B46A-4A60FE711B31}|Tropique\\Tropique.csproj|solutionrelative:tropique\\indoor2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B50F79A-9E19-4EFE-B46A-4A60FE711B31}|Tropique\\Tropique.csproj|C:\\Users\\Dell\\Desktop\\Tropique\\tropique\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B50F79A-9E19-4EFE-B46A-4A60FE711B31}|Tropique\\Tropique.csproj|solutionrelative:tropique\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B50F79A-9E19-4EFE-B46A-4A60FE711B31}|Tropique\\Tropique.csproj|C:\\Users\\Dell\\Desktop\\Tropique\\tropique\\care.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B50F79A-9E19-4EFE-B46A-4A60FE711B31}|Tropique\\Tropique.csproj|solutionrelative:tropique\\care.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B50F79A-9E19-4EFE-B46A-4A60FE711B31}|Tropique\\Tropique.csproj|C:\\Users\\Dell\\Desktop\\Tropique\\tropique\\care.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B50F79A-9E19-4EFE-B46A-4A60FE711B31}|Tropique\\Tropique.csproj|solutionrelative:tropique\\care.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B50F79A-9E19-4EFE-B46A-4A60FE711B31}|Tropique\\Tropique.csproj|C:\\Users\\Dell\\Desktop\\Tropique\\tropique\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B50F79A-9E19-4EFE-B46A-4A60FE711B31}|Tropique\\Tropique.csproj|solutionrelative:tropique\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B50F79A-9E19-4EFE-B46A-4A60FE711B31}|Tropique\\Tropique.csproj|C:\\Users\\Dell\\Desktop\\Tropique\\tropique\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B50F79A-9E19-4EFE-B46A-4A60FE711B31}|Tropique\\Tropique.csproj|solutionrelative:tropique\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B50F79A-9E19-4EFE-B46A-4A60FE711B31}|Tropique\\Tropique.csproj|C:\\Users\\Dell\\Desktop\\Tropique\\tropique\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B50F79A-9E19-4EFE-B46A-4A60FE711B31}|Tropique\\Tropique.csproj|solutionrelative:tropique\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B50F79A-9E19-4EFE-B46A-4A60FE711B31}|Tropique\\Tropique.csproj|C:\\Users\\Dell\\Desktop\\Tropique\\tropique\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B50F79A-9E19-4EFE-B46A-4A60FE711B31}|Tropique\\Tropique.csproj|solutionrelative:tropique\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B50F79A-9E19-4EFE-B46A-4A60FE711B31}|Tropique\\Tropique.csproj|c:\\users\\dell\\desktop\\tropique\\tropique\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B50F79A-9E19-4EFE-B46A-4A60FE711B31}|Tropique\\Tropique.csproj|solutionrelative:tropique\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B50F79A-9E19-4EFE-B46A-4A60FE711B31}|Tropique\\Tropique.csproj|C:\\Users\\Dell\\Desktop\\Tropique\\tropique\\indoor1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B50F79A-9E19-4EFE-B46A-4A60FE711B31}|Tropique\\Tropique.csproj|solutionrelative:tropique\\indoor1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B50F79A-9E19-4EFE-B46A-4A60FE711B31}|Tropique\\Tropique.csproj|C:\\Users\\Dell\\Desktop\\Tropique\\tropique\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B50F79A-9E19-4EFE-B46A-4A60FE711B31}|Tropique\\Tropique.csproj|solutionrelative:tropique\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B50F79A-9E19-4EFE-B46A-4A60FE711B31}|Tropique\\Tropique.csproj|C:\\Users\\Dell\\Desktop\\Tropique\\tropique\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B50F79A-9E19-4EFE-B46A-4A60FE711B31}|Tropique\\Tropique.csproj|solutionrelative:tropique\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B50F79A-9E19-4EFE-B46A-4A60FE711B31}|Tropique\\Tropique.csproj|C:\\Users\\Dell\\Desktop\\Tropique\\tropique\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B50F79A-9E19-4EFE-B46A-4A60FE711B31}|Tropique\\Tropique.csproj|solutionrelative:tropique\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B50F79A-9E19-4EFE-B46A-4A60FE711B31}|Tropique\\Tropique.csproj|C:\\Users\\Dell\\Desktop\\Tropique\\tropique\\indoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B50F79A-9E19-4EFE-B46A-4A60FE711B31}|Tropique\\Tropique.csproj|solutionrelative:tropique\\indoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B50F79A-9E19-4EFE-B46A-4A60FE711B31}|Tropique\\Tropique.csproj|C:\\Users\\Dell\\Desktop\\Tropique\\tropique\\indoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B50F79A-9E19-4EFE-B46A-4A60FE711B31}|Tropique\\Tropique.csproj|solutionrelative:tropique\\indoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B50F79A-9E19-4EFE-B46A-4A60FE711B31}|Tropique\\Tropique.csproj|C:\\Users\\Dell\\Desktop\\Tropique\\tropique\\outdoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B50F79A-9E19-4EFE-B46A-4A60FE711B31}|Tropique\\Tropique.csproj|solutionrelative:tropique\\outdoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B50F79A-9E19-4EFE-B46A-4A60FE711B31}|Tropique\\Tropique.csproj|C:\\Users\\Dell\\Desktop\\Tropique\\tropique\\outdoor3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B50F79A-9E19-4EFE-B46A-4A60FE711B31}|Tropique\\Tropique.csproj|solutionrelative:tropique\\outdoor3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B50F79A-9E19-4EFE-B46A-4A60FE711B31}|Tropique\\Tropique.csproj|C:\\Users\\Dell\\Desktop\\Tropique\\tropique\\outdoor3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B50F79A-9E19-4EFE-B46A-4A60FE711B31}|Tropique\\Tropique.csproj|solutionrelative:tropique\\outdoor3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B50F79A-9E19-4EFE-B46A-4A60FE711B31}|Tropique\\Tropique.csproj|C:\\Users\\Dell\\Desktop\\Tropique\\tropique\\outdoor1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B50F79A-9E19-4EFE-B46A-4A60FE711B31}|Tropique\\Tropique.csproj|solutionrelative:tropique\\outdoor1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B50F79A-9E19-4EFE-B46A-4A60FE711B31}|Tropique\\Tropique.csproj|C:\\Users\\Dell\\Desktop\\Tropique\\tropique\\outdoor2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B50F79A-9E19-4EFE-B46A-4A60FE711B31}|Tropique\\Tropique.csproj|solutionrelative:tropique\\outdoor2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B50F79A-9E19-4EFE-B46A-4A60FE711B31}|Tropique\\Tropique.csproj|C:\\Users\\Dell\\Desktop\\Tropique\\tropique\\outdoor2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B50F79A-9E19-4EFE-B46A-4A60FE711B31}|Tropique\\Tropique.csproj|solutionrelative:tropique\\outdoor2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B50F79A-9E19-4EFE-B46A-4A60FE711B31}|Tropique\\Tropique.csproj|C:\\Users\\Dell\\Desktop\\Tropique\\tropique\\outdoor1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B50F79A-9E19-4EFE-B46A-4A60FE711B31}|Tropique\\Tropique.csproj|solutionrelative:tropique\\outdoor1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B50F79A-9E19-4EFE-B46A-4A60FE711B31}|Tropique\\Tropique.csproj|C:\\Users\\Dell\\Desktop\\Tropique\\tropique\\indoor1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B50F79A-9E19-4EFE-B46A-4A60FE711B31}|Tropique\\Tropique.csproj|solutionrelative:tropique\\indoor1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B50F79A-9E19-4EFE-B46A-4A60FE711B31}|Tropique\\Tropique.csproj|C:\\Users\\Dell\\Desktop\\Tropique\\tropique\\indoor3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B50F79A-9E19-4EFE-B46A-4A60FE711B31}|Tropique\\Tropique.csproj|solutionrelative:tropique\\indoor3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B50F79A-9E19-4EFE-B46A-4A60FE711B31}|Tropique\\Tropique.csproj|C:\\Users\\Dell\\Desktop\\Tropique\\tropique\\indoor2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B50F79A-9E19-4EFE-B46A-4A60FE711B31}|Tropique\\Tropique.csproj|solutionrelative:tropique\\indoor2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B50F79A-9E19-4EFE-B46A-4A60FE711B31}|Tropique\\Tropique.csproj|C:\\Users\\Dell\\Desktop\\Tropique\\tropique\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B50F79A-9E19-4EFE-B46A-4A60FE711B31}|Tropique\\Tropique.csproj|solutionrelative:tropique\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B50F79A-9E19-4EFE-B46A-4A60FE711B31}|Tropique\\Tropique.csproj|C:\\Users\\Dell\\Desktop\\Tropique\\tropique\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B50F79A-9E19-4EFE-B46A-4A60FE711B31}|Tropique\\Tropique.csproj|solutionrelative:tropique\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B50F79A-9E19-4EFE-B46A-4A60FE711B31}|Tropique\\Tropique.csproj|C:\\Users\\Dell\\Desktop\\Tropique\\tropique\\outdoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B50F79A-9E19-4EFE-B46A-4A60FE711B31}|Tropique\\Tropique.csproj|solutionrelative:tropique\\outdoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B50F79A-9E19-4EFE-B46A-4A60FE711B31}|Tropique\\Tropique.csproj|C:\\Users\\Dell\\Desktop\\Tropique\\tropique\\cart.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B50F79A-9E19-4EFE-B46A-4A60FE711B31}|Tropique\\Tropique.csproj|solutionrelative:tropique\\cart.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B50F79A-9E19-4EFE-B46A-4A60FE711B31}|Tropique\\Tropique.csproj|C:\\Users\\Dell\\Desktop\\Tropique\\tropique\\indoor3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B50F79A-9E19-4EFE-B46A-4A60FE711B31}|Tropique\\Tropique.csproj|solutionrelative:tropique\\indoor3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "care.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Tropique\\Tropique\\care.cs",
+              "RelativeDocumentMoniker": "Tropique\\care.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Tropique\\Tropique\\care.cs",
+              "RelativeToolTip": "Tropique\\care.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T15:18:42.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "care.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Tropique\\Tropique\\care.cs",
+              "RelativeDocumentMoniker": "Tropique\\care.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Tropique\\Tropique\\care.cs [Design]",
+              "RelativeToolTip": "Tropique\\care.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T06:06:49.378Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Tropique\\Tropique\\Review.cs",
+              "RelativeDocumentMoniker": "Tropique\\Review.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Tropique\\Tropique\\Review.cs",
+              "RelativeToolTip": "Tropique\\Review.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T13:54:31.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Review.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Tropique\\Tropique\\Review.cs",
+              "RelativeDocumentMoniker": "Tropique\\Review.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Tropique\\Tropique\\Review.cs [Design]",
+              "RelativeToolTip": "Tropique\\Review.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T13:13:33.035Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Payment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Tropique\\Tropique\\Payment.cs",
+              "RelativeDocumentMoniker": "Tropique\\Payment.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Tropique\\Tropique\\Payment.cs [Design]",
+              "RelativeToolTip": "Tropique\\Payment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T11:46:26.023Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Tropique\\Tropique\\Login.cs",
+              "RelativeDocumentMoniker": "Tropique\\Login.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Tropique\\Tropique\\Login.cs",
+              "RelativeToolTip": "Tropique\\Login.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwCcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T10:24:28.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Outdoor3.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Tropique\\Tropique\\Outdoor3.cs",
+              "RelativeDocumentMoniker": "Tropique\\Outdoor3.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Tropique\\Tropique\\Outdoor3.cs",
+              "RelativeToolTip": "Tropique\\Outdoor3.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAA6wFkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T10:04:51.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Outdoor2.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Tropique\\Tropique\\Outdoor2.cs",
+              "RelativeDocumentMoniker": "Tropique\\Outdoor2.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Tropique\\Tropique\\Outdoor2.cs",
+              "RelativeToolTip": "Tropique\\Outdoor2.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAiwFkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T09:31:54.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Outdoor3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Tropique\\Tropique\\Outdoor3.cs",
+              "RelativeDocumentMoniker": "Tropique\\Outdoor3.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Tropique\\Tropique\\Outdoor3.cs [Design]",
+              "RelativeToolTip": "Tropique\\Outdoor3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T08:59:57.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Outdoor2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Tropique\\Tropique\\Outdoor2.cs",
+              "RelativeDocumentMoniker": "Tropique\\Outdoor2.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Tropique\\Tropique\\Outdoor2.cs [Design]",
+              "RelativeToolTip": "Tropique\\Outdoor2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T08:54:39.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Outdoor1.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Tropique\\Tropique\\Outdoor1.cs",
+              "RelativeDocumentMoniker": "Tropique\\Outdoor1.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Tropique\\Tropique\\Outdoor1.cs",
+              "RelativeToolTip": "Tropique\\Outdoor1.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAmwFYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T08:53:03.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Outdoor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Tropique\\Tropique\\Outdoor.cs",
+              "RelativeDocumentMoniker": "Tropique\\Outdoor.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Tropique\\Tropique\\Outdoor.cs [Design]",
+              "RelativeToolTip": "Tropique\\Outdoor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T08:44:49.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Indoor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Tropique\\Tropique\\Indoor.cs",
+              "RelativeDocumentMoniker": "Tropique\\Indoor.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Tropique\\Tropique\\Indoor.cs [Design]",
+              "RelativeToolTip": "Tropique\\Indoor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T08:44:42.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Indoor2.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Tropique\\Tropique\\Indoor2.cs",
+              "RelativeDocumentMoniker": "Tropique\\Indoor2.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Tropique\\Tropique\\Indoor2.cs",
+              "RelativeToolTip": "Tropique\\Indoor2.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAFEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T10:09:06.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Indoor2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Tropique\\Tropique\\Indoor2.cs",
+              "RelativeDocumentMoniker": "Tropique\\Indoor2.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Tropique\\Tropique\\Indoor2.cs [Design]",
+              "RelativeToolTip": "Tropique\\Indoor2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T15:15:30.107Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Indoor3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Tropique\\Tropique\\Indoor3.cs",
+              "RelativeDocumentMoniker": "Tropique\\Indoor3.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Tropique\\Tropique\\Indoor3.cs [Design]",
+              "RelativeToolTip": "Tropique\\Indoor3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T15:18:56.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Indoor3.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Tropique\\Tropique\\Indoor3.cs",
+              "RelativeDocumentMoniker": "Tropique\\Indoor3.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Tropique\\Tropique\\Indoor3.cs",
+              "RelativeToolTip": "Tropique\\Indoor3.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAIwFYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T10:30:13.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Tropique\\Tropique\\Cart.cs",
+              "RelativeDocumentMoniker": "Tropique\\Cart.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Tropique\\Tropique\\Cart.cs",
+              "RelativeToolTip": "Tropique\\Cart.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAawCMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T14:13:30.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Outdoor1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Tropique\\Tropique\\Outdoor1.cs",
+              "RelativeDocumentMoniker": "Tropique\\Outdoor1.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Tropique\\Tropique\\Outdoor1.cs [Design]",
+              "RelativeToolTip": "Tropique\\Outdoor1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:32:47.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Indoor1.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Tropique\\Tropique\\Indoor1.cs",
+              "RelativeDocumentMoniker": "Tropique\\Indoor1.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Tropique\\Tropique\\Indoor1.cs",
+              "RelativeToolTip": "Tropique\\Indoor1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T09:23:58.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Cart.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Tropique\\Tropique\\Cart.cs",
+              "RelativeDocumentMoniker": "Tropique\\Cart.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Tropique\\Tropique\\Cart.cs [Design]",
+              "RelativeToolTip": "Tropique\\Cart.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T14:08:59.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Indoor1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Tropique\\Tropique\\Indoor1.cs",
+              "RelativeDocumentMoniker": "Tropique\\Indoor1.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Tropique\\Tropique\\Indoor1.cs [Design]",
+              "RelativeToolTip": "Tropique\\Indoor1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T13:52:55.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Cart.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Tropique\\Tropique\\Cart.Designer.cs",
+              "RelativeDocumentMoniker": "Tropique\\Cart.Designer.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Tropique\\Tropique\\Cart.Designer.cs",
+              "RelativeToolTip": "Tropique\\Cart.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T14:31:58.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Indoor.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Tropique\\Tropique\\Indoor.cs",
+              "RelativeDocumentMoniker": "Tropique\\Indoor.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Tropique\\Tropique\\Indoor.cs",
+              "RelativeToolTip": "Tropique\\Indoor.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAiwCwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T06:23:52.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Tropique\\Tropique\\Form1.cs",
+              "RelativeDocumentMoniker": "Tropique\\Form1.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Tropique\\Tropique\\Form1.cs",
+              "RelativeToolTip": "Tropique\\Form1.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAqwEMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T10:08:38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Tropique\\Tropique\\Form1.cs",
+              "RelativeDocumentMoniker": "Tropique\\Form1.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Tropique\\Tropique\\Form1.cs [Design]",
+              "RelativeToolTip": "Tropique\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T06:23:39.42Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Tropique\\Tropique\\Payment.cs",
+              "RelativeDocumentMoniker": "Tropique\\Payment.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Tropique\\Tropique\\Payment.cs",
+              "RelativeToolTip": "Tropique\\Payment.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAawFMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T02:22:55.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Outdoor.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Tropique\\Tropique\\Outdoor.cs",
+              "RelativeDocumentMoniker": "Tropique\\Outdoor.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Tropique\\Tropique\\Outdoor.cs",
+              "RelativeToolTip": "Tropique\\Outdoor.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAiwDgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:18:13.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Tropique\\Tropique\\Login.cs",
+              "RelativeDocumentMoniker": "Tropique\\Login.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Tropique\\Tropique\\Login.cs [Design]",
+              "RelativeToolTip": "Tropique\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T13:23:16.218Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Tropique\\Tropique\\Program.cs",
+              "RelativeDocumentMoniker": "Tropique\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Tropique\\Tropique\\Program.cs",
+              "RelativeToolTip": "Tropique\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T13:14:03.176Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
